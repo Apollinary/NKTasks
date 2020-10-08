@@ -1,0 +1,7 @@
+UserName;Word;IsGuessed;NumberOfTrials;Date;
+Fred;package;true;13;2020.10.08 11:37:41;
+John;catch;true;7;2020.10.08 11:38:47;
+John;private;true;28;2020.10.08 11:40:18;
+John;default;false;12;2020.10.08 11:47:03;
+Someone;interface;true;11;2020.10.08 11:48:29;
+Tom;protected;true;6;2020.10.08 11:54:13;
